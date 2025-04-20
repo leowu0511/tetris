@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tetris 遊戲
 
 這是一個使用 Python 和 Pygame 開發的經典俄羅斯方塊遊戲。
@@ -81,3 +82,7 @@ python tetris.py
 - Python 3.x
 - Pygame 2.x
 - 中文字體支援 
+=======
+# tetris
+用python寫的tetris小遊戲
+>>>>>>> 733f84fb69e7d5b8effa246a504d350789f380e0
